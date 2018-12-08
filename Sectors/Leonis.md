@@ -8,6 +8,8 @@ The temperature outside the city is cold, staying below 0&deg;F most days and fa
 
 The Law Level is 9.
 
+There is an AMBER traveller alert on this planet, advising caution when visiting.
+
 The population is approximately 6,449,460,000.
 
 ### Orbital Bases
