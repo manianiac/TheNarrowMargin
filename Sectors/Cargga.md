@@ -21,7 +21,6 @@ The population is approximately 3300.
 * Scout Outpost
 * Traveller's Aid Society
 
-
 ### Location
 
 Hex 0101
