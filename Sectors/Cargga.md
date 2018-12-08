@@ -2,7 +2,7 @@
 
 ## General Information
 
-Cargga, a small moon orbiting Akur, is the seat of Imperial power in the sector. It is also the only settlement capable of transmitting data outside of the local cluster, thanks to an advanced communications relay tower. It is also the technological peak in the sector, serving as the original colony.
+Cargga, a small moon orbiting Akur, is the seat of Imperial power in the sector. It is the only settlement capable of transmitting data outside of the local cluster, thanks to an advanced communications relay tower. It is also the technological peak in the sector, serving as the original colony.
 
 While there is an atmosphere on the moon, it is not thick enough to allow humans to last more than a few minutes without some form of vacuum suit. Because of this, the temperature is strongly influenced by the short day/night cycle.
 
@@ -14,6 +14,7 @@ The population is approximately 3300.
 
 ### Orbital Bases
 
+* A Class Starport
 * Imperial Consulate
 * Naval Base
 * Research Facility
